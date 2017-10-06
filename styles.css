@@ -1,0 +1,53 @@
+.navbar-light .navbar-brand {
+  color: blue;
+  font-family: 'Lobster', cursive;
+}
+
+.navbar-light .navbar-nav .active>.nav-link {
+  color: #ffc107;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #ffc107;
+}
+
+.jumbotron img {
+  height: 75px;
+}
+
+.jumbotron {
+  background-image: url(ucla_team.JPG);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  color: white;
+}
+
+.lead {
+  color: white;
+  font-weight: bold;
+}
+
+.col {
+  font-family: 'Libre Baskerville', serif
+}
+
+.tableheader {
+  font-weight: bold;
+}
+
+/*td {
+  border-color: blue;
+  border-style: solid;
+  font: arial;
+  border-width: 1px;
+}*/
+
+tr {
+  border-bottom:1pt solid grey;
+  font-size: 12px;
+}
